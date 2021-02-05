@@ -10,7 +10,7 @@
 
 
 <div align="center">
-<p><a target="_blank" rel="noopener noreferrer"><img src="" alt="Abdallah Abis's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mehdiget&theme=highcontrast&show_icons=true&count_private=true" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=mehdiget&theme=highcontrast&show_icons=true&count_private=true" alt="Abdallah Abis's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mehdiget&theme=highcontrast&show_icons=true&count_private=true" style="max-width:100%;"></a></p>
 </div>
 
 
