@@ -2,13 +2,10 @@
 <h3><a id="user-content-hi-there-" class="anchor" aria-hidden="true" href="#hi-there-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
 </div>
 
-<p>
-  <a href="https://www.linkedin.com/in/aboussabr" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
-</p>
+<div align="center">
+<p><a href="mailto:mehdiacer2@gmail.com"><img src="https://camo.githubusercontent.com/d489d29b2e1a3611f8375374faab5f6bc9266b47f810bb6cfe2d7b014b9c9e3a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d416269732e616264616c6c616840676d61696c2e636f6d2d77686974653f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d726564266c696e6b3d6d61696c746f3a416269732e616264616c6c616840676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="http://img.shields.io/badge/-Abis.abdallah@gmail.com-white?style=flat-square&amp;logo=Gmail&amp;logoColor=red&amp;link=mailto:Abis.abdallah@gmail.com" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/Aboussabr/" rel="nofollow"><img src="https://camo.githubusercontent.com/565ba9e7478f4e0e74abec1b3309f278e7ab87bf2916a242966b11d1c01a3a11/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d436f6e6e6563745f776974685f416264616c6c61685f416269732d77686974653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d626c7565266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616264616c6c61682d616269732f" alt="Linkedin Badge" data-canonical-src="http://img.shields.io/badge/-Connect_with_Abdallah_Abis-white?style=flat-square&amp;logo=Linkedin&amp;logoColor=blue&amp;link=https://www.linkedin.com/in/abdallah-abis/" style="max-width:100%;"></a>
+<a href="https://twitter.com/mehdiget" rel="nofollow"><img src="https://camo.githubusercontent.com/3c414fc88a6668ecfd3835815f5e6cd3c08f2e3c9603e4446900e5f1a532a461/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d666f6c6c6f775f6d655f404465765f5f416269732d77686974653f7374796c653d666c61742d737175617265266c6f676f3d54776974746572266c6f676f436f6c6f723d626c7565266c696e6b3d68747470733a2f2f747769747465722e636f6d2f4465765f61626973" alt="Twitter Badge" data-canonical-src="http://img.shields.io/badge/-follow_me_@Dev__Abis-white?style=flat-square&amp;logo=Twitter&amp;logoColor=blue&amp;link=https://twitter.com/mehdigety" style="max-width:100%;"></a></p>
+</div>
     
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mehdiget&theme=highcontrast&show_icons=true&count_private=true)
