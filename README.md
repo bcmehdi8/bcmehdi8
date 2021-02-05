@@ -15,7 +15,7 @@
 
 <div align="center">
 <p><a href="http://audhiaprilliant.github.io/" rel="nofollow"><img  alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" style="max-width:100%;"></a>
-<a href="http://audhiaprilliant.github.io/" rel="nofollow"><img alt="Dart" width="26px" src="https://www.pngfind.com/pngs/m/144-1441576_dart-logo-png-transparent-dart-lang-png-download.png" style="max-width:100%;"></a>
+<a href="http://audhiaprilliant.github.io/" rel="nofollow"><img alt="Dart" width="26px" src="https://www.fluttericon.com/logo_dart_192px.svg" style="max-width:100%;"></a>
 <a href="http://audhiaprilliant.github.io/" rel="nofollow"><img  alt="Flutter" width="26px" src="https://image.winudf.com/v2/image1/Y29tLmliaGF2aWttYWt3YW5hLmZsdXR0ZXJwbGF5Z3JvdW5kX2ljb25fMTU1ODg4OTIyNl8wNDI/icon.png?w=170&fakeurl=1" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282018%E2%80%93present%29.svg.png" style="max-width:100%;"></a>
 <a href="http://audhiaprilliant.github.io/" rel="nofollow"><img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width:100%;"></a>
 <a href="http://audhiaprilliant.github.io/" rel="nofollow"><img alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" style="max-width:100%;"></a>
