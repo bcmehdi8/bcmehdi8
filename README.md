@@ -1,1 +1,2 @@
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdiget&layout=compact)
+// README.md
+![Github stats](https://github-readme-stats.vercel.app/api?username=mehdiget&theme=highcontrast&show_icons=true&count_private=true)
