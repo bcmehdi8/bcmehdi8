@@ -18,7 +18,7 @@
 
 <div align="center">
 <p>
-<a href="https://wstravely.com/" rel="nofollow"><img  alt="My Travel Blog" width="22px" src="https://cdn2.iconfinder.com/data/icons/basic-thin-line-color/21/18-512.png" style="max-width:100%;"></a>
+<a href="#" rel="nofollow"><img  alt="My Travel Blog" width="22px" src="https://cdn2.iconfinder.com/data/icons/basic-thin-line-color/21/18-512.png" style="max-width:100%;"></a>
 <a href="https://www.linkedin.com/in/Aboussabr/" rel="nofollow"><img alt="Aboussabr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;"></a>
 <a href="mailto:mehdiazer2@outlook.com" rel="nofollow"><img  alt="Mehdi | Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/281/281769.png" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" style="max-width:100%;"></a>
 <a href="https://twitter.com/mehdiget" rel="nofollow"><img  alt="audhiaprilliant | Twitter" width="22px" src="https://brandslogo.net/wp-content/uploads/2015/11/twitter-logo.png" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width:100%;"></a>
