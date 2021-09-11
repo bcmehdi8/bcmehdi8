@@ -4,7 +4,7 @@
 
 <ul>
   <div align="left">
-<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on a <a href="https://github.com/mehdiget/Tripply" rel="nofollow">personal project</a>!</li>
+<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on a <a href="https://github.com/aboussabr/Tripply" rel="nofollow">personal project</a>!</li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning Flutter and Secure Coding <g-emoji class="g-emoji" alias="rofl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f923.png"></g-emoji></li>
 <li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate with other content creators</li>
 <li><g-emoji class="g-emoji" alias="goal_net" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f945.png">🥅</g-emoji> 2021 Goals: Give impact to society</li>
@@ -20,7 +20,7 @@
 <p>
 <a href="https://wstravely.com/" rel="nofollow"><img  alt="My Travel Blog" width="22px" src="https://cdn2.iconfinder.com/data/icons/basic-thin-line-color/21/18-512.png" style="max-width:100%;"></a>
 <a href="https://www.linkedin.com/in/Aboussabr/" rel="nofollow"><img alt="Aboussabr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;"></a>
-<a href="mailto:mehdiacer2@gmail.com" rel="nofollow"><img  alt="Mehdi | Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/281/281769.png" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" style="max-width:100%;"></a>
+<a href="mailto:mehdiazer2@outlook.com" rel="nofollow"><img  alt="Mehdi | Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/281/281769.png" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" style="max-width:100%;"></a>
 <a href="https://twitter.com/mehdiget" rel="nofollow"><img  alt="audhiaprilliant | Twitter" width="22px" src="https://brandslogo.net/wp-content/uploads/2015/11/twitter-logo.png" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width:100%;"></a>
 </p>
 </div>
@@ -43,7 +43,7 @@
 
 
 <div align="center">
-<p><a target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=mehdiget&show_icons=true&count_private=true" alt="Abdallah Abis's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mehdiget&theme=highcontrast&show_icons=true&count_private=true" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=aboussabr&show_icons=true&count_private=true" alt="Abdallah Abis's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=aboussabr&theme=highcontrast&show_icons=true&count_private=true" style="max-width:100%;"></a></p>
 </div>
 
 
