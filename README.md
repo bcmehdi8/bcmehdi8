@@ -41,12 +41,7 @@
 
 
 <div align="center">
-<p><a target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=aboussabr&show_icons=true&count_private=true" alt="Mehdi Aboussabr's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=aboussabr&theme=highcontrast&show_icons=true&count_private=true" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboussabr" alt="Mehdi Aboussabr's github stats"style="max-width:100%;"></a>
+<a target="#"><img src="https://github-readme-stats.vercel.app/api?username=aboussabr&show_icons=true&count_private=true" alt="Mehdi Aboussabr's github stats"></a>
+ <a target="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboussabr" alt="Mehdi Aboussabr's github stats"></a>
   </p>
-
-
-</div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboussabr)](https://github.com/anuraghazra/github-readme-stats)
-
 
