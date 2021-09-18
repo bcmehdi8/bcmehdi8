@@ -39,9 +39,9 @@
 <a href="https://www.google.com/search?q=GitHub" rel="nofollow"><img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width:100%;"></a></p>
   </div>
 
-
-<div align="center">
-<a target="#"><img src="https://github-readme-stats.vercel.app/api?username=aboussabr&show_icons=true&count_private=true" alt="Mehdi Aboussabr's github stats"></a>
- <a target="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboussabr" alt="Mehdi Aboussabr's github stats"></a>
-  </p>
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
