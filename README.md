@@ -4,11 +4,9 @@
 
 <ul>
   <div align="left">
-<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on a <a href="https://github.com/aboussabr/Tripply" rel="nofollow">personal project</a>!</li>
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning Flutter and Secure Coding <g-emoji class="g-emoji" alias="rofl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f923.png"></g-emoji></li>
-<li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate with other content creators</li>
-<li><g-emoji class="g-emoji" alias="goal_net" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f945.png">🥅</g-emoji> 2021 Goals:Improve Mobile Apps Portfolio</li>
-<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact: I love blogging, reading books, and drawing</li>
+<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on <a href="https://github.com/aboussabr/Tripply" rel="nofollow">personal projects</a>!</li>
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji>learning Flutter and Secure Coding <g-emoji class="g-emoji" alias="rofl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f923.png"></g-emoji></li>
+<li><g-emoji class="g-emoji" alias="goal_net" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f945.png">🥅</g-emoji> 2021 Goals:Improve Mobile Apps Portfolio & PlayStore Presence</li>
       </div>
 </ul>
 
