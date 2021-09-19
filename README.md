@@ -2,9 +2,9 @@
 
 <ul>
   <div align="left">
-<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on <a href="https://github.com/aboussabr/Tripply" rel="nofollow">personal projects</a>!</li>
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji>learning Flutter and Secure Coding <g-emoji class="g-emoji" alias="rofl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f923.png"></g-emoji></li>
-<li><g-emoji class="g-emoji" alias="goal_net" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f945.png">🥅</g-emoji> 2021 Goals: Improve Mobile Apps Portfolio & PlayStore Presence</li>
+<li><g-emoji class="g-emoji" >🔭</g-emoji> I’m currently working on <a href="https://github.com/aboussabr/Tripply" rel="nofollow">personal projects</a>!</li>
+<li><g-emoji class="g-emoji">🌱</g-emoji>learning Flutter and Secure Coding <g-emoji class="g-emoji" ></g-emoji></li>
+<li><g-emoji class="g-emoji" >🥅</g-emoji> 2021 Goals: Improve Mobile Apps Portfolio & PlayStore Presence</li>
       </div>
 </ul>
 
