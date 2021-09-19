@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="80%" src="./party.png" /></a></p>
+<p align="center"><a href="#"><img width="80%" src="./mehdi_intro.png" /></a></p>
 
 <ul>
   <div align="left">
