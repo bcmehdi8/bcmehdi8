@@ -3,7 +3,7 @@
 <ul>
   <div align="left">
 <li><g-emoji class="g-emoji" >🔭</g-emoji> I’m currently working on <a href="https://github.com/aboussabr/Tripply" rel="nofollow">personal projects</a>!</li>
-<li><g-emoji class="g-emoji">🌱</g-emoji>Learning Flutter, Focusing on Performence & Secure Coding<g-emoji class="g-emoji" ></g-emoji></li>
+<li><g-emoji class="g-emoji">🌱</g-emoji>Develop my Flutter skill, Focusing on Performence & Secure Coding<g-emoji class="g-emoji" ></g-emoji></li>
 <li><g-emoji class="g-emoji" >🥅</g-emoji> 2021 Goals: Improve Mobile Apps Portfolio & PlayStore Presence</li>
       </div>
 </ul>
