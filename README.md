@@ -4,6 +4,7 @@
 <div align="center">
 <h3><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd"></path></svg></a>Languages and Tools:</h3></div>
 
+
 <div align="center">
 <p><a href="https://www.google.com/search?q=java"><img  alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" style="max-width:100%;"></a>
 <a href="https://www.google.com/search?q=Dart" rel="nofollow"><img alt="Dart" width="26px" src="https://www.fluttericon.com/logo_dart_192px.svg" style="max-width:100%;"></a>
@@ -23,4 +24,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aboussabr&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboussabr&layout=compact&langs_count=7&theme=merko"/></a>
 </div>
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aboussabr/) 
 
