@@ -6,14 +6,14 @@
 - 📱 Mobile App developer.
 - 👨‍💻 Mostly working on ❤️Android ❤️Flutter 🔥Firebase/REST!
 - 🌐 Little bit exploring Web development too.
-### Github Stats
+### 📊 Github Stats
  <div>
   <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aboussabr&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboussabr&layout=compact&langs_count=7&theme=buefy"/></a>
 </div>
 
-### Lets Connect
+### 🔗 Lets Connect
 
 <div align="center">
 <a href="https://github.com/aboussabr" target="_blank">
