@@ -4,7 +4,7 @@
 
 - 👨‍💻 ***#SelfTaught*** Developer.
 - 📱 Mobile App developer.
-- 👨‍💻 Mostly working on ❤️Android ❤️Flutter 🔥Firebase/REST!
+- 👨‍💻 Mostly working on ❤️Android ❤️Flutter
 - 🌐 Little bit exploring Web development too.
 ### 📊 Github Stats
  <div>
