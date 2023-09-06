@@ -6,12 +6,6 @@
 - 📱 Mobile App developer.
 - 👨‍💻 Mostly working on ❤️Android ❤️Flutter
 - 🌐 Little bit exploring Web development too.
-### 📊 Github Stats
- <div>
-  <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bcmehdi8&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcmehdi8&layout=compact&langs_count=7&theme=buefy"/></a>
-</div>
 
 ### 🔗 Lets Connect
 
